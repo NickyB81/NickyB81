@@ -8,7 +8,7 @@ I'm an IT professional with a deep interest in technology and certifications to 
 
 My journey in computer science has led me to develop a passion for cybersecurity. I am now looking to transition into this field, applying my [CySA+](https://www.comptia.org/certifications/cybersecurity-analyst), [Security+](https://www.comptia.org/certifications/security), [SC-900](https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/), and [TryHackMe SOC Level 1](https://tryhackme.com/path/outline/soclevel1)
 skills to real-world threat detection, incident response, and vulnerability assessment.
-I'm looking for an Security Operations Center (SOC) analyst or similar role. Also looking to connect and collaborate with cybersecurity practitioners and work on blue team projects, and open-source security tooling. 
+I'm aiming for an Security Operations Center (SOC) analyst role or similar. Also looking to connect and collaborate with cybersecurity practitioners and work on blue team projects, and open-source security tooling. 
 I'm currently learning about blue team techniques — deepening my skills in SIEM tooling, malware analysis, and security automation with Python and PowerShell. 
 
 Ask me about CompTIA certification prep, Microsoft fundamentals, Linux and Windows administration, or security tools like [Wireshark](https://www.wireshark.org/), [Snort](https://www.snort.org/), [Metasploit](https://www.metasploit.com/), [Nmap](https://nmap.org/), and [Burp Suite](https://portswigger.net/burp).
@@ -57,7 +57,14 @@ I use to work at Amazon, leading teams of up to 70+ associates in several differ
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
+[![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-E2231A?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/2b34da31-1386-4318-b473-5c4bc1df6e2d/public_url))
+![Security+](https://img.shields.io/badge/CompTIA-Security%2B-E2231A?style=for-the-badge&logo=comptia&logoColor=white)
+https://www.credly.com/badges/28325427-c714-432a-8293-8b87bbf81027/public_url
+![A+](https://img.shields.io/badge/CompTIA-A%2B-E2231A?style=for-the-badge&logo=comptia&logoColor=white)
+![SC-900](https://img.shields.io/badge/Microsoft-SC--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-SOC%20Level%201-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)
+
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />

@@ -38,6 +38,10 @@ Current focus: deepening my skills in SIEM platforms, malware analysis, and secu
 [![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com/)
 [![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white)](https://nmap.org/)
 [![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)](https://www.virustotal.com/)
+[![Autopsy](https://img.shields.io/badge/Autopsy-000000?style=for-the-badge&logoColor=white)](https://www.sleuthkit.org/autopsy/)
+[![Volatility](https://img.shields.io/badge/Volatility-4B0082?style=for-the-badge&logoColor=white)](https://www.volatilityfoundation.org/)
+[![FTK Imager](https://img.shields.io/badge/FTK_Imager-FF0000?style=for-the-badge&logo=exterro&logoColor=white)](https://www.exterro.com/digital-forensics-software/ftk-imager)
 
 ## 📬How to reach me
 [![Proton Mail](https://img.shields.io/badge/Proton_Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:neculai.baldigau@protonmail.com) 
